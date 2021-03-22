@@ -1,6 +1,6 @@
 {
     "token": "",
-    "prefix": "gen!",
+    "prefix": "-",
     "color": {
         "green": "0x43B581",
         "yellow": "0xFAA61A",
