@@ -1,0 +1,10 @@
+{
+    "token": "",
+    "prefix": "gen!",
+    "color": {
+        "green": "0x43B581",
+        "yellow": "0xFAA61A",
+        "red": "0xF04747",
+        "default": "0x7289DA"
+    }
+}
